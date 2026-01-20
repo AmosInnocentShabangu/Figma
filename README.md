@@ -14,11 +14,11 @@ Our product helps close South Africa’s education gap by proving that our great
 solving the education crisis isn’t expensive technology-it’s our own students helping each other
 
 ## Features
-1 Q&A forum
-2. Chat room
-3. Resources Library (Videos, notes)
-4. Progress tracking dashboard
-5. Peer tutor management system
+- Q&A forum
+- Chat room
+- Resources Library (Videos, notes)
+- Progress tracking dashboard
+- Peer tutor management system
 
 ## Technologies & Tools
 - Microsoft teams
